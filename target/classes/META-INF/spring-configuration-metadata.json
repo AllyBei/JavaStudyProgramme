@@ -1,0 +1,32 @@
+{
+  "groups": [
+    {
+      "name": "ItInventory",
+      "type": "cn.hrs.allybei.JavaStudy.SpringBoot.testYaml.ItInventory",
+      "sourceType": "cn.hrs.allybei.JavaStudy.SpringBoot.testYaml.ItInventory"
+    }
+  ],
+  "properties": [
+    {
+      "name": "ItInventory.host-name",
+      "type": "java.lang.String",
+      "sourceType": "cn.hrs.allybei.JavaStudy.SpringBoot.testYaml.ItInventory"
+    },
+    {
+      "name": "ItInventory.is-over-warrenty",
+      "type": "java.lang.Boolean",
+      "sourceType": "cn.hrs.allybei.JavaStudy.SpringBoot.testYaml.ItInventory"
+    },
+    {
+      "name": "ItInventory.purchase-date",
+      "type": "java.util.Date",
+      "sourceType": "cn.hrs.allybei.JavaStudy.SpringBoot.testYaml.ItInventory"
+    },
+    {
+      "name": "ItInventory.user-name",
+      "type": "java.lang.String",
+      "sourceType": "cn.hrs.allybei.JavaStudy.SpringBoot.testYaml.ItInventory"
+    }
+  ],
+  "hints": []
+}
