@@ -1,0 +1,6 @@
+
+
+
+
+insert into user ( id,username,password,address) values ( 1,'Zhang San','111','XiAn' ) , ( 2,'Li Si','222','ChangSha' ) , ( 3,'Wang Wu','333','ShangHai' ) ;
+

@@ -3,7 +3,6 @@ package cn.hrs.allybei.JavaStudy.SpringBoot.testYaml;
 import lombok.Data;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
-import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;
 
 import java.util.Date;
@@ -32,4 +31,6 @@ public class ItInventory {
     private Boolean isOverWarrenty;
     @Value("${ItInventory.purchaseDate}")
     private Date purchaseDate;
+
+
 }

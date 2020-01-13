@@ -1,6 +1,7 @@
-#itInventory:
-#  userName: AllyBei
-#  isOverWarrenty: true
-#  purchaseDate: 2015/09/01
-#  hostName: MO-CN-411
+itInventory:
+  userName: AllyBei
+  isOverWarrenty: true
+  purchaseDate: 2015/09/01
+  hostName: MO-CN-411
+
 

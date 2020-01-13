@@ -1,5 +1,6 @@
 package cn.hrs.allybei.JavaStudy.SpringBoot;
 
+import cn.hrs.allybei.JavaStudy.SpringBoot.testConditionalAnnotation.MagicCondition;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
